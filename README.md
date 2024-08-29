@@ -54,7 +54,7 @@
 <img src="https://github.com/Ankush1626/Chess-Python/blob/main/snapshots/valid%20moves.png" align="center" style="width: 50%" />
 </div>  
 
-  
+.
 The valid moves are highlighted by **red-colored squares** on the board.
 
 <br/>
@@ -65,6 +65,7 @@ The valid moves are highlighted by **red-colored squares** on the board.
 <img src="https://github.com/Ankush1626/Chess-Python/blob/main/snapshots/last%20move.png" align="center" style="width: 50%" />
 </div>  
 
+.
 The last moves are highlighted by **yellow-shaded squares** on the board.
 
 <br/>
@@ -75,6 +76,7 @@ The last moves are highlighted by **yellow-shaded squares** on the board.
 <img src="https://github.com/Ankush1626/Chess-Python/blob/main/snapshots/castling.png" align="center" style="width: 50%" />
 </div>  
 
+.
 The White King has completed castling.
 
 <br/>
@@ -85,6 +87,7 @@ The White King has completed castling.
 <img src="https://github.com/Ankush1626/Chess-Python/blob/main/snapshots/pawn%20promotion.png" align="center" style="width: 50%" />
 </div>  
 
+.
 The Pawn on b8 is promoted to Queen.
 
 <br/>
@@ -95,6 +98,7 @@ The Pawn on b8 is promoted to Queen.
 <img src="https://github.com/Ankush1626/Chess-Python/blob/main/snapshots/en%20passant.png" align="center" style="width: 50%" />
 </div>  
 
+.
 The Pawn on d5 is eligible to perform an En Passant move.
 
 <br/>
