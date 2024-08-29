@@ -3,6 +3,10 @@
 This is a Python-based chess game designed for player vs. player matches.
 </div>
 
+<br/>
+
+<br/>
+
 <div align="center">
 Execute 'main.py' to start playing the game.
 </div>
@@ -133,7 +137,7 @@ The Pawn on d5 is eligible to perform an En Passant move.
 # Dislaimer
 
 <div align="center">
-This code was not originally developed by me. I learned it from a tutorial by the channel Coding Spot on Youtube and hold no copyright over this code.
+This code was not originally developed by me. I learned it from a tutorial by the channel Coding Spot on Youtube and hold no copyright over this code or its related files.
 <br/>
 PS - I did not just copy and paste the code. Instead, I understood it and then rewrote the entire code from scratch.
 </div>
