@@ -56,7 +56,9 @@
 
 <br/>
 
+<div align="center">
 The valid moves are highlighted by **red-colored squares** on the board.
+</div>.
 
 <br/>
 
@@ -68,7 +70,9 @@ The valid moves are highlighted by **red-colored squares** on the board.
 
 <br/>
 
+<div align="center">
 The last moves are highlighted by **yellow-shaded squares** on the board.
+</div>
 
 <br/>
 
@@ -80,7 +84,9 @@ The last moves are highlighted by **yellow-shaded squares** on the board.
 
 <br/>
 
+<div align="center">
 The White King has completed castling.
+</div>
 
 <br/>
 
@@ -92,7 +98,9 @@ The White King has completed castling.
 
 <br/>
 
+<div align="center">
 The Pawn on b8 is promoted to Queen.
+</div>
 
 <br/>
 
@@ -104,6 +112,8 @@ The Pawn on b8 is promoted to Queen.
 
 <br/>
 
+<div align="center">
 The Pawn on d5 is eligible to perform an En Passant move.
+</div>
 
 <br/>
