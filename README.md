@@ -4,7 +4,7 @@ This is a Python-based chess game designed for player vs. player matches.
 </div>
 
 <div align="center">
-Execute **`main.py`** to start playing the game.
+Execute **main.py** to start playing the game.
 </div>
 
 <div align="center">
