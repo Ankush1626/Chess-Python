@@ -58,7 +58,7 @@
 
 <div align="center">
 The valid moves are highlighted by **red-colored squares** on the board.
-</div>.
+</div>
 
 <br/>
 
