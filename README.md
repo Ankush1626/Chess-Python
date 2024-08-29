@@ -19,7 +19,7 @@
 # Green theme
 
 <div align="center">
-<img src="https://github.com/Ankush1626/Chess-Python/blob/main/snapshots/green.png" align="center" style="width: 100%" />
+<img src="https://github.com/Ankush1626/Chess-Python/blob/main/snapshots/green.png" align="center" style="width: 50%" />
 </div>  
 
 <br/>
