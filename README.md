@@ -1,4 +1,15 @@
 # Chess Python
+<div align="center">
+This is a Python-based chess game designed for player vs. player matches.
+</div>
+
+<div align="center">
+Execute **`main.py`** to start playing the game.
+</div>
+
+<div align="center">
+The code is primarily written using Pygame, without relying on any external chess modules.
+</div>
 
 # Game Features
 
