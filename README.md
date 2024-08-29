@@ -5,6 +5,10 @@ This is a Python-based chess game designed for player vs. player matches.
 
 <br/>
 
+<div align="center">
+<img src="https://github.com/Ankush1626/Chess-Python/blob/main/snapshots/Chess%20Gameplay.gif" align="center" style="width: 100%" />
+</div>
+
 <br/>
 
 <div align="center">
