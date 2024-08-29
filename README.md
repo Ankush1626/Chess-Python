@@ -3,7 +3,7 @@
 # Game Features
 
 **Diverse Themes:** Choose from multiple visually appealing themes to customize the look and feel of the chessboard.
-<div align="center>**Press the 't' key to switch themes.**</div>
+<div align="center><p>**Press the 't' key to switch themes.**</p></div>
 
 **Valid Move Highlighting:** Displays all possible valid moves for the selected piece, aiding in strategic gameplay.
 
