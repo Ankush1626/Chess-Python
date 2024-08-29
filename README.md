@@ -53,8 +53,8 @@
 <div align="center">
 <img src="https://github.com/Ankush1626/Chess-Python/blob/main/snapshots/valid%20moves.png" align="center" style="width: 50%" />
 </div>  
-\n
 
+  
 The valid moves are highlighted by **red-colored squares** on the board.
 
 <br/>
