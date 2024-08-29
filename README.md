@@ -2,16 +2,16 @@
 
 # Game Features
 
-**Multiple Themes:** Press the 't' key to switch themes.
+- **Multiple Themes:** Press the 't' key to switch themes.
 
-**Valid Move Highlighting**
+- **Valid Move Highlighting**
 
-**Last Move Indicator**.
+- **Last Move Indicator**
 
-**Pawn Promotion**
+- **Pawn Promotion**
 
-**Castling**
+- **Castling**
 
-**En Passant**
+- **En Passant**
 
-**Game Restart**: Press the 'r' key to restart game.
+- **Game Restart**: Press the 'r' key to restart game.
