@@ -112,8 +112,17 @@ The Pawn on b8 is promoted to Queen.
 
 <br/>
 
+
 <div align="center">
 The Pawn on d5 is eligible to perform an En Passant move.
 </div>
 
 <br/>
+
+# Dislaimer
+
+<div align="center">
+This code was not originally developed by me. I learned it from a tutorial by the channel Coding Spot on Youtube and hold no copyright over this code.
+<br/>
+PS - I did not just copy and paste the code. Instead, I understood it and then rewrote the entire code from scratch.
+</div>
